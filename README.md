@@ -1,11 +1,12 @@
 ## Olá, 👋
 <br>
-Eu me chamo Sidney Silva, sou Programador Front End, atualmente aprendendo e criando Projetos com:
+Eu me chamo Sidney Silva, sou Programador Front End e Designer UI/UX, atualmente aprendendo e criando Projetos com:
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js-logo">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo">
 <br>
 Contato:
 <br>
