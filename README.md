@@ -1,16 +1,25 @@
-## Hi there 👋
+## Olá, 👋
+<br>
+Eu me chamo Sidney Silva, sou Programador Front End, atualmente aprendendo e criando Projetos com:
+<br>
+<br>
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js-logo">
+<br>
+Contato:
+<br>
+<a href="https://www.instagram.com/sidneywebdesigner"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-logo"></a>
+<a href="https://www.linkedin.com/in/sidneydevfrontend"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"></a>
+<a href="https://sidneydesigner.com.br"><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="sidneydesigner"></a>
+<br>
+<br>
 
-<!--
-**sidneydevfrontend/sidneydevfrontend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's Sidney stats](https://github-readme-stats.vercel.app/api?username=sidneydevfrontend)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidneydevfrontend)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
